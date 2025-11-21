@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_ar_example_image.jpg.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/ar_example_image.jpg"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_logo_fondo_espejo.png.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/logo_fondo_espejo.png"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_ic_bitacora.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/ic_bitacora.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_ic_ar_icon.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/ic_ar_icon.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_logo_inicio.png.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/logo_inicio.png"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_estructura_mambo_home_page.png.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/estructura_mambo_home_page.png"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_ic_search.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_logo_lado.png.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/logo_lado.png"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/xml_data_extraction_rules.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/font_work_sans_bold.ttf.flat",
+        "source": "com.mambo.iris.app-main-84:/font/work_sans_bold.ttf"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/xml_backup_rules.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/layout_activity_ar_experience.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/layout/activity_ar_experience.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/font_work_sans_regular.ttf.flat",
+        "source": "com.mambo.iris.app-main-84:/font/work_sans_regular.ttf"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_ic_profile.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/font_high_tower.TTF.flat",
+        "source": "com.mambo.iris.app-main-84:/font/high_tower.TTF"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_logo_login_register.png.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/logo_login_register.png"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_logo_mambo.png.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/logo_mambo.png"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_logo_fondo.png.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/logo_fondo.png"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_ic_home.xml.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/drawable_logo_espiral.png.flat",
+        "source": "com.mambo.iris.app-main-84:/drawable/logo_espiral.png"
+    },
+    {
+        "merged": "com.mambo.iris.app-debug-82:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mambo.iris.app-main-84:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

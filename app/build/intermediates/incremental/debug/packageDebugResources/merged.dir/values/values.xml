@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="ic_launcher_background">#FF8619</color>
+    <color name="iris_accent">#FF9800</color>
+    <color name="iris_fondo_gris">#2A2A2A</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Iris</string>
+    <string name="gcm_defaultSenderId" translatable="false">1060580086587</string>
+    <string name="google_api_key" translatable="false">AIzaSyANJJP4u6SOWjFCxWzbEmL7u2YzVqTVOPs</string>
+    <string name="google_app_id" translatable="false">1:1060580086587:android:6c2b014ebebe231f1e1d1e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyANJJP4u6SOWjFCxWzbEmL7u2YzVqTVOPs</string>
+    <string name="google_storage_bucket" translatable="false">iris-732ea.firebasestorage.app</string>
+    <string name="project_id" translatable="false">iris-732ea</string>
+    <style name="Theme.Iris" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+    <style name="Theme.Iris.NoActionBar" parent="Theme.Iris">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

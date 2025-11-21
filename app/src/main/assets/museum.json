@@ -1,0 +1,107 @@
+{
+  "rooms": [
+    {
+      "id": "sala1",
+      "name": "Sala 1 - Vanguardias",
+      "description": "Introducción a movimientos modernos.",
+      "mapHotspotX": 0.25,
+      "mapHotspotY": 0.4,
+      "panoramaAsset": "images/sala1_360.jpg"
+    },
+    {
+      "id": "sala2",
+      "name": "Sala 2 - Abstracción",
+      "description": "Obras abstractas latinoamericanas.",
+      "mapHotspotX": 0.6,
+      "mapHotspotY": 0.35,
+      "panoramaAsset": "images/sala2_360.jpg"
+    },
+    {
+      "id": "sala3",
+      "name": "Sala 3 - Contemporáneo",
+      "description": "Prácticas contemporáneas.",
+      "mapHotspotX": 0.78,
+      "mapHotspotY": 0.7
+    }
+  ],
+  "artworks": [
+    {
+      "id": "obra1",
+      "roomId": "sala1",
+      "title": "Composición Azul",
+      "artist": "Artista X",
+      "year": "1959",
+      "imageAsset": "images/obra1.jpg",
+      "description": "Pieza clave de la sala de vanguardias.",
+      "audioText": "Bienvenido a la obra Composición Azul..."
+    },
+    {
+      "id": "obra2",
+      "roomId": "sala1",
+      "title": "Líneas y Ritmos",
+      "artist": "Artista Z",
+      "year": "1962",
+      "imageAsset": "images/obra2.jpg",
+      "description": "Ritmos visuales y geometría."
+    },
+    {
+      "id": "obra3",
+      "roomId": "sala2",
+      "title": "Formas en Rojo",
+      "artist": "Artista Y",
+      "year": "1968",
+      "imageAsset": "images/obra3.jpg",
+      "description": "Exploración cromática y forma."
+    },
+    {
+      "id": "obra4",
+      "roomId": "sala2",
+      "title": "Trama",
+      "artist": "Artista W",
+      "year": "1971",
+      "imageAsset": "images/obra4.jpg",
+      "description": "Tramas y patrones."
+    },
+    {
+      "id": "obra5",
+      "roomId": "sala3",
+      "title": "Instalación Luz",
+      "artist": "Artista Q",
+      "year": "2015",
+      "imageAsset": "images/obra5.jpg",
+      "description": "Interacción y contemporaneidad."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "¿Qué sala introduce movimientos modernos?",
+      "options": [
+        "Sala 1",
+        "Sala 2",
+        "Sala 3"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "q2",
+      "question": "¿En qué sala predominan las obras abstractas?",
+      "options": [
+        "Sala 1",
+        "Sala 2",
+        "Sala 3"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "q3",
+      "question": "¿Cuál sala no tiene panorama 360 en el MVP?",
+      "options": [
+        "Sala 1",
+        "Sala 2",
+        "Sala 3"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

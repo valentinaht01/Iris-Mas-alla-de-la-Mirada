@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tema que usas en AndroidManifest -->
+    <style name="Theme.Iris" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- barra de estado transparente -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- color de la barra de navegación -->
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+
+    <!-- Tema sin ActionBar para compatibilidad con AR -->
+    <style name="Theme.Iris.NoActionBar" parent="Theme.Iris">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
